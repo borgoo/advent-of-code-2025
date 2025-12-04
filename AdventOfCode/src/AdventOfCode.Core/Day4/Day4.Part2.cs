@@ -21,7 +21,7 @@ internal static partial class Day4 {
             do {
 
                 removed = 0;
-                foreach(var (i, j) in rolls) {
+                foreach(var (i, j) in rolls.ToArray()) {
 
                     int adjacentRollsOfPaper = 0;
                     foreach(var (dx,dy) in _directions) {
