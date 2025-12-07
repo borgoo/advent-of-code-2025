@@ -21,10 +21,11 @@ Each problem's numbers are arranged vertically; at the bottom of the problem is 
 
 So, this worksheet contains four problems:
 
-123 * 45 * 6 = 33210
-328 + 64 + 98 = 490
-51 * 387 * 215 = 4243455
-64 + 23 + 314 = 401
+- 123 * 45 * 6 = 33210
+- 328 + 64 + 98 = 490
+- 51 * 387 * 215 = 4243455
+- 64 + 23 + 314 = 401
+
 To check their work, cephalopod students are given the grand total of adding together all of the answers to the individual problems. In this worksheet, the grand total is 33210 + 490 + 4243455 + 401 = 4277556.
 
 Of course, the actual worksheet is much wider. You'll need to make sure to unroll it completely so that you can read the problems clearly.
@@ -50,10 +51,11 @@ Here's the example worksheet again:
 
 Reading the problems right-to-left one column at a time, the problems are now quite different:
 
-The rightmost problem is 4 + 431 + 623 = 1058
-The second problem from the right is 175 * 581 * 32 = 3253600
-The third problem from the right is 8 + 248 + 369 = 625
-Finally, the leftmost problem is 356 * 24 * 1 = 8544
+- The rightmost problem is 4 + 431 + 623 = 1058
+- The second problem from the right is 175 * 581 * 32 = 3253600
+- The third problem from the right is 8 + 248 + 369 = 625
+- Finally, the leftmost problem is 356 * 24 * 1 = 8544
+
 Now, the grand total is 1058 + 3253600 + 625 + 8544 = 3263827.
 
 Solve the problems on the math worksheet again. What is the grand total found by adding together all of the answers to the individual problems?
